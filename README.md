@@ -66,6 +66,11 @@ O resultado foi um vídeo de **60 segundos** (formato Reels/Shorts) de alto impa
 3.  **Trauma:** Identificação da fratura exposta e instrução de curativo compressivo indireto/torniquete (se aplicável) e proteção do osso exposto com curativo estéril umedecido.
 4.  **RMC:** Demonstração da retirada de capacete (técnica a dois socorristas simulada) e aplicação do colar cervical.
 
+O projeto resultou em um conteúdo vertical (formato Reels/Shorts) altamente engajador.
+
+* [Clique aqui para assistir ao vídeo (Link Simulado)](#) 
+* *Ou visualize a prévia no diretório `/assets` deste repositório.*
+
 ## 💭 Reflexão (Opcional)
 Criar um conteúdo 'natty' (natural) com um tema tão técnico e sensível foi um desafio. O maior obstáculo foi garantir que o avatar transmitisse a **seriedade e urgência** de um bombeiro real, sem cair no "Uncanny Valley" (estranheza artificial). O uso de uma voz neural de alta qualidade foi crucial para passar credibilidade técnica no procedimento de resgate.
 
