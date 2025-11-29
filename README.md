@@ -22,7 +22,7 @@ O vídeo gerado aborda o passo a passo (Protocolo XABCDE):
 
 ## 🤖 Tecnologias Utilizadas
 * **ChatGPT (OpenAI):** Para roteirização técnica baseada em protocolos de APH e estruturação do passo a passo (XABCDE).
-* **Midjourney / Leonardo AI:** Para geração de cenários de fundo realistas (acidente de trânsito controlado) e elementos visuais da fratura para sobreposição.
+* **Google AI Studio (Imagen):** Para geração de cenários de fundo realistas (acidente de trânsito controlado) e do avatar base do bombeiro.
 * **HeyGen (ou Synthesia):** Para criação e animação do avatar do Bombeiro Militar (com fardamento personalizado) e *lip-sync*.
 * **ElevenLabs:** Para clonagem de voz ou geração de uma voz neural autoritária e empática em PT-BR.
 * **CapCut / Premiere:** Para edição final, cortes dinâmicos, inserção de legendas "aesthetic" e efeitos sonoros de sirene/ambiente.
@@ -30,7 +30,7 @@ O vídeo gerado aborda o passo a passo (Protocolo XABCDE):
 | Ferramenta | Função no Projeto |
 | :--- | :--- |
 | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white) | **Roteirização Técnica:** Criação do script baseado no PHTLS. |
-| ![Midjourney](https://img.shields.io/badge/Midjourney-FA5F29?style=flat&logo=midjourney&logoColor=white) | **Cenários:** Geração de imagens realistas do acidente e texturas. |
+| ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat&logo=google&logoColor=white) | **Cenários & Avatar:** Geração de imagens realistas via modelos Imagen. |
 | ![HeyGen](https://img.shields.io/badge/HeyGen-5A45FF?style=flat&logo=google-lens&logoColor=white) | **Avatar Virtual:** Animação do bombeiro e *lip-sync*. |
 | ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat&logo=google-podcasts&logoColor=white) | **Voz Neural:** Síntese de voz autoritária e natural (PT-BR). |
 | ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=tiktok&logoColor=white) | **Edição:** Montagem, efeitos sonoros e legendas dinâmicas. |
@@ -67,12 +67,10 @@ O resultado foi um vídeo de **60 segundos** (formato Reels/Shorts) de alto impa
 4.  **RMC:** Demonstração da retirada de capacete (técnica a dois socorristas simulada) e aplicação do colar cervical.
 
 O projeto resultou em um conteúdo vertical (formato Reels/Shorts) altamente engajador.
+* Visualize a prévia no diretório [assets](./assets) deste repositório.
 
-* [Clique aqui para assistir ao vídeo (Link Simulado)](#) 
-* *Ou visualize a prévia no diretório `/assets` deste repositório.*
-
-## 💭 Reflexão (Opcional)
-Criar um conteúdo 'natty' (natural) com um tema tão técnico e sensível foi um desafio. O maior obstáculo foi garantir que o avatar transmitisse a **seriedade e urgência** de um bombeiro real, sem cair no "Uncanny Valley" (estranheza artificial). O uso de uma voz neural de alta qualidade foi crucial para passar credibilidade técnica no procedimento de resgate.
+## 💭 Reflexão
+Criar um conteúdo 'natty' (natural) com um tema tão técnico e sensível foi um desafio. O maior obstáculo foi garantir que o avatar transmitisse a **seriedade e urgência** de um bombeiro real, sem cair no "Uncanny Valley" (estranheza artificial). Neste sentido, um dos maiores obstáculos foram as ferramentas, que para produzirem um resultado de qualidade superior exigem créditos advindos de assinaturas pagas. Apesar disso, o resultado foi satisfatório, sobretudo em termos de percepção do poder das ferramentas ao conhecê-las e estuda-las em maior profundidade.
 
 ---
 
@@ -80,5 +78,5 @@ Criar um conteúdo 'natty' (natural) com um tema tão técnico e sensível foi u
 
 **[Lev-TheDev]** *Programador Back-end*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](seu-link-linkedin)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](seu-link-github)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonathan-roger-levino/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lev-TheDev)
